@@ -41,23 +41,7 @@ body{
     font-style: italic;
     
 }
-/*
-#list{
-    margin: 20px;
-    padding: 20px;
-    border: 2px solid black;
-    display: flex;
-    flex-direction: column;
-    width: 50vw;
-    height: 50vh;
-    justify-content: flex-start;
-    flex-wrap: wrap; 
-    align-items: flex-start;
-    align-content: flex-start;
-    text-align: center;
-    border-radius: 1rem;
-    background-color:antiquewhite;
-}*/
+
 
 #list-title{
     font-family: Georgia;
