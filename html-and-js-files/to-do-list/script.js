@@ -46,8 +46,7 @@ function removeTask(){
     for(item of todolist.children){
         
         if(item.firstChild.checked === true){
-            //item.remove();
-            //todolist.removeChild(item);
+
             arr.push(item);
         } 
     }
